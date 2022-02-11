@@ -7,8 +7,8 @@ See Astro on itch: https://astro-game.itch.io/astro
 
 Version 0.4 (In Development):
 
-- Offscreen exit text fixed.
-- Player can no longer spawn inside terrain.
+- (BUG) Offscreen exit text fixed.
+- (BUG) Player can no longer spawn inside terrain.
 - Inventory system implemented.
 - Item backend implemented.
 

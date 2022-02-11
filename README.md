@@ -9,7 +9,8 @@ Version 0.4 (In Development):
 
 - (BUG) Offscreen exit text fixed.
 - (BUG) Player can no longer spawn inside terrain.
-- Inventory system implemented.
+- (BUG) Player can no longer alter their direction mid-climb.
+- Inventory and hotbar system implemented.
 - Item backend implemented.
 
 Version 0.3 (Beta):

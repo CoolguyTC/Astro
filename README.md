@@ -5,7 +5,11 @@ See Astro on itch: https://astro-game.itch.io/astro
 
 **Patch Notes:**
 
-Version 0.4 (In Development):
+Version 0.5 (In Development):
+
+
+
+Version 0.4 (Beta):
 
 - (BUG) Offscreen exit text fixed.
 - (BUG) Player can no longer spawn inside terrain.

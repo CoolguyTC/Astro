@@ -7,7 +7,12 @@ See Astro on itch: https://astro-game.itch.io/astro
 
 Version 0.6 (In Development):
 
-
+- (Planned) Add weapon combat system.
+- (Planned) Add enemies.
+- (Planned) Balance game.
+- (Planned) Better organise code and project files.
+- (Planned) Complete help menu.
+- (Planned) Add objective text.
 
 Version 0.5 (Beta: First Fully Playable Build):
 

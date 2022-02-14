@@ -12,6 +12,7 @@ Version 0.6 (In Development):
 Version 0.5 (Beta: First Fully Playable Build):
 
 - (BUG) Objects such as rocks now have a full square hitbox rather than a smaller generated one.
+- (BUG) Fixed some UI aspect ratio bugs. Gameplay should be fine at most aspect ratios now.
 - Consumables can now be used.
 - Abandoned camps now generate.
 - Supply crates now generate.

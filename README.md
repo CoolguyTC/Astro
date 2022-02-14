@@ -9,7 +9,7 @@ Version 0.6 (In Development):
 
 
 
-Version 0.5 (Beta):
+Version 0.5 (Beta: First Fully Playable Build):
 
 - Consumables can now be used.
 - Abandoned camps now generate.

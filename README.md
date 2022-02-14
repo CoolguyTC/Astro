@@ -5,9 +5,25 @@ See Astro on itch: https://astro-game.itch.io/astro
 
 **Patch Notes:**
 
-Version 0.5 (In Development):
+Version 0.6 (In Development):
 
 
+
+Version 0.5 (Beta):
+
+- Consumables can now be used.
+- Abandoned camps now generate.
+- Supply crates now generate.
+- The players ship now generates.
+- Broadcast points now generate.
+- The player now dies when their health reaches 0.
+- Broadcast towers can now be placed on broadcast points.
+- The player can now win once all broadcast towers have been placed and they interact with their ship.
+- Chests can now be interacted with to obtain items.
+- The help menu has been updated.
+- An F to interact prompt now appears.
+- New prompt for exiting game.
+- Inflated area in which tiles are checked to ensure the player isn't softlocked at the start of the game.
 
 Version 0.4 (Beta):
 

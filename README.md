@@ -24,6 +24,7 @@ Version 0.5 (Beta: First Fully Playable Build):
 - An F to interact prompt now appears.
 - New prompt for exiting game.
 - Inflated area in which tiles are checked to ensure the player isn't softlocked at the start of the game.
+- Asjusted the inventory texture and the starting sword texture.
 
 Version 0.4 (Beta):
 

@@ -7,7 +7,7 @@ See Astro on itch: https://astro-game.itch.io/astro
 
 Version 0.6 (In Development):
 
-- (Planned) Add crashed ship structures.
+- Crashed ship structures now generate.
 - (Planned) Add weapon combat system.
 - (Planned) Add enemies.
 - (Planned) Balance game.

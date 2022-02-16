@@ -9,6 +9,8 @@ Version 0.6 (In Development):
 
 - Crashed ship structures now generate.
 - Added an objective tracker.
+- (Planned) Add pause menu.
+- (Planned) Allow use of consumables from the inventory.
 - (Planned) Add weapon combat system.
 - (Planned) Add enemies.
 - (Planned) Balance game.

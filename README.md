@@ -9,6 +9,10 @@ Version 0.6 (In Development):
 
 - Crashed ship structures now generate.
 - Added an objective tracker.
+- (Planned) Make certain keybinds more obvious to new players.
+- (Planned) Add shadows to better distinguish elevation layers.
+- (Planned) Allow the player to climb in diagonal corners.
+- (Planned) Highlight interactable objects in the reach of the player.
 - (Planned) Add pause menu.
 - (Planned) Allow use of consumables from the inventory.
 - (Planned) Add weapon combat system.

@@ -5,21 +5,29 @@ See Astro on itch: https://astro-game.itch.io/astro
 
 **Patch Notes:**
 
-Version 0.6 (In Development):
+Planned Features:
 
-- Crashed ship structures now generate.
-- Added an objective tracker.
+- (Planned) Add knockback.
 - (Planned) Make certain keybinds more obvious to new players.
 - (Planned) Add shadows to better distinguish elevation layers.
 - (Planned) Allow the player to climb in diagonal corners.
 - (Planned) Highlight interactable objects in the reach of the player.
 - (Planned) Add pause menu.
 - (Planned) Allow use of consumables from the inventory.
-- (Planned) Add weapon combat system.
-- (Planned) Add enemies.
-- (Planned) Balance game.
 - (Planned) Better organise code and project files.
-- (Planned) Complete help menu.
+- (Planned) Balance game.
+- (Planned) Add a final boss.
+- (Planned) Add cutscenes.
+- (Planned) Add sound effects and music.
+
+Version 0.6 The A-Level Build (In Development):
+
+- Crashed ship structures now generate.
+- Added an objective tracker.
+- Added a weapon combat system.
+- (In Development) Add enemies.
+- (In Development) Better organise code and project files.
+- (In Development) Complete current help menu images.
 
 Version 0.5 (Beta: First Fully Playable Build):
 

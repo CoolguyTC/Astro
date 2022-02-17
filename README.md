@@ -3,9 +3,8 @@ This is the official bug report repository for Astro. When reporting bugs make s
 
 See Astro on itch: https://astro-game.itch.io/astro
 
-**Patch Notes:**
 
-Planned Features:
+**Planned Features:**
 
 - (Planned) Add knockback.
 - (Planned) Make certain keybinds more obvious to new players.
@@ -19,6 +18,9 @@ Planned Features:
 - (Planned) Add a final boss.
 - (Planned) Add cutscenes.
 - (Planned) Add sound effects and music.
+
+
+**Patch Notes:**
 
 Version 0.6 The A-Level Build (In Development):
 

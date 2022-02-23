@@ -22,14 +22,18 @@ See Astro on itch: https://astro-game.itch.io/astro
 
 **Patch Notes:**
 
-Version 0.6 The A-Level Build (In Development):
+Version 0.7 (In Development):
+
+- (In Development) Balance game.
+- (In Development) Better organise code and project files.
+
+Version 0.6 The A-Level Build (Beta):
 
 - Crashed ship structures now generate.
 - Added an objective tracker.
 - Added a weapon combat system.
-- (In Development) Add enemies.
-- (In Development) Better organise code and project files.
-- (In Development) Complete current help menu images.
+- Added three different naturally spawning enemy types.
+- Main current help menu images have been created.
 
 Version 0.5 (Beta: First Fully Playable Build):
 

@@ -29,6 +29,7 @@ Version 0.7 (In Development):
 
 Version 0.6 The A-Level Build (Beta):
 
+- (BUG) Fixed pressing escape exiting the game instead of holding escape.
 - Crashed ship structures now generate.
 - Added an objective tracker.
 - Added a weapon combat system.

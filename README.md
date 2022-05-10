@@ -14,11 +14,14 @@ See Astro on itch: https://astro-game.itch.io/astro
 - Allow the player to climb in diagonal corners.
 - Highlight interactable objects in the reach of the player.
 - Add pause menu.
+- Add settings.
+- Add a particle engine.
 - Allow use of consumables from the inventory.
 - Better organise code and project files.
 - Balance game.
 - Add a final boss.
 - Add cutscenes.
+- Add more animations for after the crash landing.
 - Add sound effects and music.
 - Add custom keybinds.
 
@@ -27,8 +30,7 @@ See Astro on itch: https://astro-game.itch.io/astro
 
 Version 0.7 (In Development):
 
-- (In Development) Balance game.
-- (In Development) Better organise code and project files.
+
 
 Version 0.6 The A-Level Build (Beta):
 

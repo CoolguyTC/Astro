@@ -6,18 +6,21 @@ See Astro on itch: https://astro-game.itch.io/astro
 
 **Planned Features:**
 
-- (Planned) Add knockback.
-- (Planned) Make certain keybinds more obvious to new players.
-- (Planned) Add shadows to better distinguish elevation layers.
-- (Planned) Allow the player to climb in diagonal corners.
-- (Planned) Highlight interactable objects in the reach of the player.
-- (Planned) Add pause menu.
-- (Planned) Allow use of consumables from the inventory.
-- (Planned) Better organise code and project files.
-- (Planned) Balance game.
-- (Planned) Add a final boss.
-- (Planned) Add cutscenes.
-- (Planned) Add sound effects and music.
+- Add knockback.
+- Fix tile shadow parity.
+- Re-do/fix older sprites.
+- Make certain keybinds more obvious to new players.
+- Add shadows to better distinguish elevation layers.
+- Allow the player to climb in diagonal corners.
+- Highlight interactable objects in the reach of the player.
+- Add pause menu.
+- Allow use of consumables from the inventory.
+- Better organise code and project files.
+- Balance game.
+- Add a final boss.
+- Add cutscenes.
+- Add sound effects and music.
+- Add custom keybinds.
 
 
 **Patch Notes:**

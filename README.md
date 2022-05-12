@@ -9,7 +9,7 @@ See Astro on itch: https://astro-game.itch.io/astro
 - Add knockback.
 - Fix tile shadow parity.
 - Re-do/fix older sprites.
-- Make certain keybinds more obvious to new players.
+- Make certain keybinds more obvious to new players. (Some sort of quick tutorial)
 - Add shadows to better distinguish elevation layers.
 - Allow the player to climb in diagonal corners.
 - Highlight interactable objects in the reach of the player.
@@ -18,12 +18,13 @@ See Astro on itch: https://astro-game.itch.io/astro
 - Add a particle engine.
 - Allow use of consumables from the inventory.
 - Better organise code and project files.
-- Balance game.
 - Add a final boss.
 - Add cutscenes.
 - Add more animations for after the crash landing.
-- Add sound effects and music.
+- Add sound effects.
+- Add music.
 - Add custom keybinds.
+- Add biomes to break up the terrain more.
 
 
 **Patch Notes:**

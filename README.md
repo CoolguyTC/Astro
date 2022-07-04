@@ -26,6 +26,7 @@ See Astro on itch: https://astro-game.itch.io/astro
 - Add custom keybinds.
 - Add biomes to break up the terrain more.
 - Recieve sword from ship.
+- Mini map?
 
 
 **Patch Notes:**
